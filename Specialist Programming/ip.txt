@@ -2,11 +2,6 @@
 Windows IP Configuration
 
 
-Ethernet adapter Tunngle:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
 Ethernet adapter Ethernet:
 
    Media State . . . . . . . . . . . : Media disconnected
@@ -17,7 +12,7 @@ Wireless LAN adapter Local Area Connection* 2:
    Media State . . . . . . . . . . . : Media disconnected
    Connection-specific DNS Suffix  . : 
 
-Ethernet adapter Ethernet 2:
+Wireless LAN adapter Local Area Connection* 3:
 
    Media State . . . . . . . . . . . : Media disconnected
    Connection-specific DNS Suffix  . : 
@@ -25,12 +20,7 @@ Ethernet adapter Ethernet 2:
 Wireless LAN adapter WiFi:
 
    Connection-specific DNS Suffix  . : 
-   Link-local IPv6 Address . . . . . : fe80::6125:7e:f698:2f33%9
-   IPv4 Address. . . . . . . . . . . : 192.168.0.36
-   Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : 192.168.0.1
-
-Tunnel adapter Local Area Connection* 11:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::e86a:22f0:da32:a3f4%11
+   IPv4 Address. . . . . . . . . . . : 10.160.84.4
+   Subnet Mask . . . . . . . . . . . : 255.255.224.0
+   Default Gateway . . . . . . . . . : 10.160.95.254
